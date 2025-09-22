@@ -7,4 +7,4 @@
 - Business Process Mapping
 - Industry-specific Use Case Analysis
 - AppExchange Exploration
-  [View Project PDF](https://1drv.ms/w/c/82D783682E76E0D1/ETTrUarH6OtCuKNjqyoFxe8BJLrhL2FZ2YnK-H0yJTgQIA?e=nAo4d4)
+  [View Project PDF](https://1drv.ms/w/c/82D783682E76E0D1/ETTrUarH6OtCuKNjqyoFxe8BG0hccQsNdbRetZkHCPjsmw?e=s4keNk)
