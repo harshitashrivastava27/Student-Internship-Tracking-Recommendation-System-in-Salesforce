@@ -7,4 +7,5 @@
 - Business Process Mapping
 - Industry-specific Use Case Analysis
 - AppExchange Exploration
-  [View Project PDF](https://1drv.ms/w/c/82D783682E76E0D1/ETTrUarH6OtCuKNjqyoFxe8BG0hccQsNdbRetZkHCPjsmw?e=s4keNk)
+ [![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](file:///C:/Users/Harshita/Documents/Salesforce%20Project%20Phase1.pdf)
+
