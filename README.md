@@ -8,7 +8,7 @@
 - Industry-specific Use Case Analysis
 - AppExchange Exploration
 
-## 📄 Project Report
+
 
 [![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SP_Phase1.pdf)
 
