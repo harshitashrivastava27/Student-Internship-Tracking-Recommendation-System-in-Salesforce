@@ -26,7 +26,7 @@
 - OWD
 - Login Access Policies
 
-[![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASE1.pdf)
+[![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASE2.pdf)
 
 
 ## Phase 3: Data Modeling & Relationships
