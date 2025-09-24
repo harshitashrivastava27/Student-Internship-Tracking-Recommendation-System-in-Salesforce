@@ -42,7 +42,20 @@
 
 [![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASE3.pdf)
 
+## Phase 4 : Process Automation (Admin)
 
+- Validation Rules
+- Workflow Rules
+- Process Builder
+- Approval Process
+- Flow Builder (Screen, Record-Triggered, Scheduled, Auto-launched)
+- Email Alerts
+- Field Updates
+- Tasks
+- Custom Notifications
+
+  
+[![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASEC4.pdf)
 
 
   
