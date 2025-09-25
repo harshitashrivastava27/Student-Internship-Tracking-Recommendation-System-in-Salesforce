@@ -62,18 +62,18 @@
 ## Phase 5 : Apex Programming (Developer)
 
 - Classes & Objects
-• • Apex Triggers (before/after Insert/update/delete)
-• • Trigger Design Pattern
-• • SOQL & SOSL
-• • Collections: List, Set. Map
-• - Control Statements
-• • Batch Apex
-• • Queueable Apex
-• • Scheduled Apex
-• - Future Methods
-• • Exception Handling
-• Test Classes
-• • Asynchronous Processing
+-  Apex Triggers (before/after Insert/update/delete)
+- Trigger Design Pattern
+- SOQL & SOSL
+ - Collections: List, Set. Map
+ - Control Statements
+-  Batch Apex
+- Queueable Apex
+- Scheduled Apex
+- Future Methods
+- Exception Handling
+- Test Classes
+ - Asynchronous Processing
 
   
 [![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASEC4.pdf)
