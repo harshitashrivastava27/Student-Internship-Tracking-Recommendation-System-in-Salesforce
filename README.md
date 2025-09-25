@@ -80,39 +80,41 @@
 
 
 
-## Phase 6 : Process Automation (Admin)
+## Phase 6 : User Interface Developement 
 
-- Validation Rules
-- Workflow Rules
-- Process Builder
-- Approval Process
-- Flow Builder (Screen, Record-Triggered, Scheduled, Auto-launched)
-- Email Alerts
-- Field Updates
-- Tasks
-- Custom Notifications
-
-  
-[![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASEC4.pdf)
-
-
-
-
-
-## Phase 7 : Process Automation (Admin)
-
-- Validation Rules
-- Workflow Rules
-- Process Builder
-- Approval Process
-- Flow Builder (Screen, Record-Triggered, Scheduled, Auto-launched)
-- Email Alerts
-- Field Updates
-- Tasks
-- Custom Notifications
+- Lightning App Builder
+- Record Pages
+- Tabs
+- Home Page Layouts
+- Utility Bar
+- LWC(Lightning Web Component)
+- Apex with LWC
+- Events in LWC
+- Wire Adapters
+- Imperative Apex Calls
+- Navigation Service
 
   
 [![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASEC4.pdf)
+
+
+
+
+
+## Phase 7 : Integration and External Access
+- Named Credentials
+- External Services
+- Web Services (REST/SOAP)
+- Callouts
+- Platform Events
+- Change Data Capture
+- Salesforce Connect
+- API Limits
+- OAuth & Authentication
+- Remote Site Settings
+
+  
+[![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASE7.pdf)
 
 
   
