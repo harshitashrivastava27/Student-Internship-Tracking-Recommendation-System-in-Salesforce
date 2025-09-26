@@ -118,18 +118,38 @@
 
 
 
-## Phase 7 : Data Management & Deployment
-Data Import Wizard
-Data Loader
-Duplicate Rules
-Data Export & Backup
-Change Sets
-Unmanaged vs Managed Packages
-ANT Migration Tool
-VS Code & SFDX
+## Phase 8 : Data Management & Deployment
+- Data Import Wizard
+- Data Loader
+- Duplicate Rules
+- Data Export & Backup
+- Change Sets
+- Unmanaged vs Managed Packages
+- ANT Migration Tool
+- VS Code & SFDX
 
 
 [![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASE8.pdf)
 
 
+
+## Phase 9 : Reporting, Dashboards & Security Review
+
+- Reports (Tabular, Summary, Matrix, Joined)
+- Report Types
+- Dashboards
+- Dynamic Dashboards
+- Profiles
+- Roles
+- Users
+- Permission Sets
+- OWD
+- Sharing Rules
+- Sharing Settings
+- Field Level Security
+- Session Settings
+- Login IP Ranges
+- Audit Trail
+
+[![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASE8.pdf)
 
