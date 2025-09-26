@@ -117,7 +117,19 @@
 [![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASE7.pdf)
 
 
-  
+
+## Phase 7 : Data Management & Deployment
+Data Import Wizard
+Data Loader
+Duplicate Rules
+Data Export & Backup
+Change Sets
+Unmanaged vs Managed Packages
+ANT Migration Tool
+VS Code & SFDX
+
+
+[![View Project PDF](https://img.shields.io/badge/VIEW_PROJECT_PDF-blue?style=for-the-badge)](SF_PHASE8.pdf)
 
 
 
